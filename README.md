@@ -2,7 +2,7 @@
 
 Proyek ini menggunakan data **Angkasa Pura** (Bandara Juanda, Surabaya) untuk menganalisis dan meramalkan jumlah **pesawat, penumpang, bagasi, dan kargo** pada segmen **Domestik** dan **Internasional**. Pendekatan yang digunakan memadukan **analisis statistik** (korelasi, OLS, VAR, Granger) dan **machine learning** (LSTM) sehingga cakupan tidak hanya deskriptif, tetapi juga **prediktif**.
 
-> **Judul disarankan**  
+  
 > **Analisis dan Peramalan Jumlah Penumpang Domestik–Internasional di Bandara Juanda (2019–2024) dengan Model Statistik dan Machine Learning**
 
 ---
